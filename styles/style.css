@@ -22,6 +22,32 @@
   width: 568px;
 }
 
+.header__title {
+  width: 730px;
+  margin-left: 64px;
+  font-size: 102px;
+  font-weight: 600;
+  line-height: 96px;
+  display: flex;
+}
+
+.header__subtitle {
+  width: 338px;
+  left: 64px;
+  margin: 0%;
+  bottom: 30px;
+  position: absolute;
+  line-height: 25px;
+  font-size: 18px;
+  font-weight: normal;
+}
+
+.logo_place_header {
+  margin-top: 30px;
+  margin-left: 64px;
+  position: absolute;
+}
+
 /* и элемента с модификатором вида ключ-значение */
 .table__cell_theme_dark {
   width: 200px;
