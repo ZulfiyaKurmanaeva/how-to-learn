@@ -320,7 +320,7 @@
 .footer__coloumn_content_social {
   flex-direction: column;
   justify-content: flex-start;
-  color: #fff
+  color: #fff;
   }
 .footer__social-icon {
   size: 16px;
