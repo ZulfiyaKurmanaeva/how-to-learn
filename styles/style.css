@@ -10,7 +10,7 @@ html {
   
   }
  
- .header {
+ header {
   position: relative;
   height: 100vh;
   min-height: 600px;
@@ -180,7 +180,7 @@ font-weight: normal;
   overflow: hidden;
 }
 .feynman__title {
-  margin: 0 auto; 
+  margin: 0 auto;
   width: 648px;
   font-size: 120px;
   line-height: 1.15;
