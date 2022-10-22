@@ -5,9 +5,14 @@
     line-height: 51px;
     font-size: 36px;
     font-weight: normal;
-    color: #2f80ed;
     text-decoration: none;
     transition: opacity .2s linear;
+}
+
+.feynman__link:link,
+.feynman__link:visited,
+.feynman__link:focus {
+    color: #2f80ed;
 }
 
 .feynman__link:hover {

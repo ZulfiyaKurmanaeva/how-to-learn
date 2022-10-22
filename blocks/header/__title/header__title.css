@@ -4,4 +4,6 @@
     font-weight: 600;
     line-height: 96px;
     z-index: 2;
+    margin: 0;
+    padding: 0;
 }

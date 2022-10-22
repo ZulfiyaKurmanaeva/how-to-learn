@@ -4,6 +4,11 @@
     transition: opacity .2s linear;
 }
 
+.header__link:link,
+.header__link:visited,
+.header__link:focus {
+    color: #2f80ed;
+}
 
 .header__link:hover {
     opacity: .3;
